@@ -1,0 +1,46 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "name": "Circle of love",
+      "singer": "fisher",
+      "path": "./Music/Listen to after love by fishy in Related tracks- after love playlist online for free on SoundCloud.mp3",
+      "image": "./image/circle_love.jpg"
+    },
+    {
+      "name": "Anniverse",
+      "singer": "Linh Thộn",
+      "path": "./Music/chacchanlladccualo.mp3",
+      "image": "./image/Linh-thon.jpg",
+      "id": 2
+    },
+    {
+      "name": "Imphetamin",
+      "singer": "Jimmi ngủ yên",
+      "path": "./Music/IMPHÊTAMIN - jimmi ngủ yên by Trung Tâm Băng Đĩa Lậu Hải Ngoại.mp3",
+      "image": "./image/imphetamin.jpg",
+      "id": 3
+    },
+    {
+      "name": "Yêu em qua dòng tin nhắn",
+      "singer": "MCK - Nân",
+      "path": "./Music/Yeqdtn.m4a",
+      "image": "./image/mck-nan.jpg",
+      "id": 4
+    },
+    {
+      "name": "Yêu em qua dòng tin nhắn",
+      "singer": "MCK - Nân",
+      "path": "./Music/Yeqdtn.m4a",
+      "image": "./image/mck-nan.jpg",
+      "id": 5
+    },
+    {
+      "name": "Phía sau 1 cô gái",
+      "singer": "Toàn",
+      "path": "./Music/Yeqdtn.m4a",
+      "image": "./image/mck-nan.jpg",
+      "id": 6
+    }
+  ]
+}
